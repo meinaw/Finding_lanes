@@ -1,7 +1,5 @@
 #**Finding Lane Lines on the Road** 
 
-
-
 ---
 
 **Finding Lane Lines on the Road**
@@ -65,8 +63,6 @@ Example of a processed image is shown below, with two solid red lines drawn for 
 2. The current pipeline worked most of the time, but for several frames (less than 0.5%) the detected lines deviated from actual lanes. 
 
 3. The detected lines flickers quite a lot. 
-
-
 
 
 ###3. Suggest possible improvements to your pipeline
